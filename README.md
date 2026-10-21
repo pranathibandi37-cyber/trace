@@ -1,6 +1,6 @@
 # TraceOpt
 
-[![tests](https://github.com/prakartii/TraceOpt/actions/workflows/tests.yml/badge.svg)](https://github.com/prakartii/TraceOpt/actions/workflows/tests.yml)
+[![tests](https://github.com/pranathibandi37-cyber/trace/actions/workflows/tests.yml/badge.svg)](https://github.com/pranathibandi37-cyber/trace/actions/workflows/tests.yml)
 
 **TraceOpt: A Proving-Cost-Aware Compiler Optimization Framework for Zero-Knowledge Virtual Machines**
 
@@ -567,6 +567,7 @@ for precompiles.
 ## Contributors
 
 - Prakarti Dubey
+- Pranathi Bandi
 
 <!-- Add the other team members here. -->
 
